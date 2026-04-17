@@ -75,6 +75,8 @@ output/
 
 - 2025년 3월 BOJ_STAT 개발
 
+- 2025년 5월 25일 AWS / Codetree Programming Contest 결선 출전
+ 
 - 2025년 5월 25일 1500문제 해결
 
 - 2025년 10월 1일 INU 코드페스티벌 2025 코디네이터(운영, 출제 총괄)
