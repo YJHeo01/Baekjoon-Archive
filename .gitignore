@@ -1,6 +1,5 @@
 node_modules/
 dist/
-output/
 progress.json
 *.tsbuildinfo
 .env

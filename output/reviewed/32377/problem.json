@@ -1,0 +1,15 @@
+{
+  "problemId": 32377,
+  "title": "풍선 터트리기",
+  "timeLimit": "0.5 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>A, B, C 3명이 $N$개의 풍선을 터트리는 게임을 합니다.</p>\n\n<ul>\n\t<li>A는 $x$분마다 하나의 풍선을 터트립니다. (A는 게임 시작 후 $x, 2x, 3x$...분에 풍선을 터트립니다.)</li>\n\t<li>B는 $y$분마다 하나의 풍선을 터트립니다. (B는 게임 시작 후 $y, 2y, 3y$...분에 풍선을 터트립니다.)</li>\n\t<li>C는 $z$분마다 하나의 풍선을 터트립니다. (C는 게임 시작 후 $z, 2z, 3z$...분에 풍선을 터트립니다.)</li>\n\t<li>동시에 두 명 이상이 풍선을 터트리는 경우 A, B, C순으로 풍선을 터트립니다.</li>\n</ul>\n\n<p>마지막 풍선을 터트리는 사람이 승리한다고 했을 때 A, B, C 중 승자를 출력해주세요.</p>",
+  "inputDesc": "<p>첫 번째 줄에 풍선의 개수 $N$과, 풍선을 터트리는 데 걸리는 시간 $x, y, z$가 주어집니다. ($1 ≤ N, x, y, z ≤ 10^9$, $N, x, y, z$는 모두 정수입니다.)</p>",
+  "outputDesc": "<p>게임의 승자를 출력해주세요. A가 승자일 경우 <span style=\"color:#e74c3c;\"><code>A win</code></span>을, B가 승자일 경우 <span style=\"color:#e74c3c;\"><code>B win</code></span>을, C가 승자일 경우 <span style=\"color:#e74c3c;\"><code>C win</code></span>을 출력해주세요.</p>",
+  "tags": [
+    "성공",
+    "이분 탐색",
+    "매개 변수 탐색"
+  ],
+  "fetchedAt": "2026-04-17T13:59:33.422Z"
+}
