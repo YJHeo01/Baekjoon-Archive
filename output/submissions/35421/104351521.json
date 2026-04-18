@@ -1,0 +1,11 @@
+{
+  "submissionId": 104351521,
+  "problemId": 35421,
+  "problemTitle": "최단 거리와 쿼리",
+  "result": "맞았습니다!!",
+  "memory": 499856,
+  "time": 11084,
+  "language": "PyPy3 / 수정",
+  "codeLength": 2813,
+  "submittedAt": "2026년 3월 26일 14:32:57"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 99471216,
+  "problemId": 14897,
+  "problemTitle": "서로 다른 수와 쿼리 1",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1066,
+  "submittedAt": "2025년 10월 16일 18:18:29"
+}

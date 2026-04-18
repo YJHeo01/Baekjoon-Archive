@@ -1,0 +1,11 @@
+{
+  "submissionId": 101041653,
+  "problemId": 18227,
+  "problemTitle": "성대나라의 물탱크",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 2177,
+  "submittedAt": "2025년 12월 13일 17:15:05"
+}

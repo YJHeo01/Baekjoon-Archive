@@ -1,0 +1,11 @@
+{
+  "submissionId": 100819903,
+  "problemId": 13925,
+  "problemTitle": "수열과 쿼리 13",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 (Clang) / 수정",
+  "codeLength": 3825,
+  "submittedAt": "2025년 12월 5일 16:20:04"
+}

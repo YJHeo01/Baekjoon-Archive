@@ -1,0 +1,11 @@
+{
+  "submissionId": 101355947,
+  "problemId": 34803,
+  "problemTitle": "문자열 로또",
+  "result": "맞았습니다!!",
+  "memory": 109544,
+  "time": 92,
+  "language": "PyPy3 / 수정",
+  "codeLength": 345,
+  "submittedAt": "2025년 12월 26일 17:37:51"
+}

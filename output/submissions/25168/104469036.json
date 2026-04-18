@@ -1,0 +1,11 @@
+{
+  "submissionId": 104469036,
+  "problemId": 25168,
+  "problemTitle": "게으른 아리를 위한 접종 계획",
+  "result": "맞았습니다!!",
+  "memory": 110708,
+  "time": 100,
+  "language": "PyPy3 / 수정",
+  "codeLength": 604,
+  "submittedAt": "2026년 3월 29일 17:59:44"
+}

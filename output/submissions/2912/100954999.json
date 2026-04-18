@@ -1,0 +1,11 @@
+{
+  "submissionId": 100954999,
+  "problemId": 2912,
+  "problemTitle": "백설공주와 난쟁이",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 2945,
+  "submittedAt": "2025년 12월 10일 16:44:30"
+}

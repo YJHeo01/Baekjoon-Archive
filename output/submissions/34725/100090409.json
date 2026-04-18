@@ -1,0 +1,11 @@
+{
+  "submissionId": 100090409,
+  "problemId": 34725,
+  "problemTitle": "직사각형 채우기",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 506,
+  "submittedAt": "2025년 11월 9일 13:31:35"
+}

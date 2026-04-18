@@ -1,0 +1,11 @@
+{
+  "submissionId": 101794832,
+  "problemId": 32385,
+  "problemTitle": "$\\frac{1}{2}$(MatKor+ALPS)=AlKor",
+  "result": "맞았습니다!!",
+  "memory": 110736,
+  "time": 96,
+  "language": "PyPy3 / 수정",
+  "codeLength": 142,
+  "submittedAt": "2026년 1월 10일 17:58:47"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 94666807,
+  "problemId": 1499,
+  "problemTitle": "뒤집기 수열",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 449,
+  "submittedAt": "2025년 5월 23일 16:48:58"
+}

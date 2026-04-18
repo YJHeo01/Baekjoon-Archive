@@ -1,0 +1,11 @@
+{
+  "submissionId": 101041682,
+  "problemId": 18227,
+  "problemTitle": "성대나라의 물탱크",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 2207,
+  "submittedAt": "2025년 12월 13일 17:16:05"
+}
