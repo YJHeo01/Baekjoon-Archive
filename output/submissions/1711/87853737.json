@@ -1,0 +1,11 @@
+{
+  "submissionId": 87853737,
+  "problemId": 1711,
+  "problemTitle": "직각삼각형",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 599,
+  "submittedAt": "2024년 12월 27일 09:45:49"
+}

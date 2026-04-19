@@ -1,0 +1,11 @@
+{
+  "submissionId": 92350404,
+  "problemId": 1111,
+  "problemTitle": "IQ Test",
+  "result": "런타임 에러 (ZeroDivisionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 405,
+  "submittedAt": "2025년 4월 1일 09:16:34"
+}

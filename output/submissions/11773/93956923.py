@@ -1,0 +1,14 @@
+a,b = map(int,input().split())
+
+for i in range(max(a,b//2+b%2)):
+    tmp = 1
+    while True:
+        if tmp * 26 > i: break
+        tmp *= 26
+    answer = ''
+    while True:
+        if tmp == 0: break
+        answer += chr(ord('a')+(i//tmp))
+        i %= tmp
+        tmp //= 26
+    print(answer,end=" ")

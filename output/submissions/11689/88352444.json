@@ -1,0 +1,11 @@
+{
+  "submissionId": 88352444,
+  "problemId": 11689,
+  "problemTitle": "GCD(n, k) = 1",
+  "result": "맞았습니다!!",
+  "memory": 123336,
+  "time": 152,
+  "language": "PyPy3 / 수정",
+  "codeLength": 830,
+  "submittedAt": "2025년 1월 8일 14:54:01"
+}

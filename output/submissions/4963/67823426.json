@@ -1,0 +1,11 @@
+{
+  "submissionId": 67823426,
+  "problemId": 4963,
+  "problemTitle": "섬의 개수",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 806,
+  "submittedAt": "2023년 10월 11일 12:01:20"
+}

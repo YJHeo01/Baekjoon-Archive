@@ -1,0 +1,11 @@
+{
+  "submissionId": 68759296,
+  "problemId": 1717,
+  "problemTitle": "집합의 표현",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 664,
+  "submittedAt": "2023년 11월 2일 15:59:30"
+}

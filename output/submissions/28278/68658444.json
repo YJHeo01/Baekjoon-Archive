@@ -1,0 +1,11 @@
+{
+  "submissionId": 68658444,
+  "problemId": 28278,
+  "problemTitle": "스택 2",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C99 / 수정",
+  "codeLength": 710,
+  "submittedAt": "2023년 10월 31일 13:23:24"
+}

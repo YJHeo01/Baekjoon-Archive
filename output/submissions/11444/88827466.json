@@ -1,0 +1,11 @@
+{
+  "submissionId": 88827466,
+  "problemId": 11444,
+  "problemTitle": "피보나치 수 6",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 461,
+  "submittedAt": "2025년 1월 18일 17:42:23"
+}

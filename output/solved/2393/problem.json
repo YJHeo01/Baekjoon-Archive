@@ -1,0 +1,14 @@
+{
+  "problemId": 2393,
+  "title": "Rook",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>You have just learned how to output text to the screen and your teacher has challenged you to create an ASCII art of a chess piece. You have decided to make your favorite piece, the rook.</p>",
+  "outputDesc": "<p>The rook art, exactly as shown below, with no extra blank spaces. In particular, a line must not end with a blank space.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-19T23:18:08.640Z"
+}

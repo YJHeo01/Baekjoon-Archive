@@ -1,0 +1,11 @@
+{
+  "submissionId": 81616548,
+  "problemId": 16563,
+  "problemTitle": "어려운 소인수분해",
+  "result": "맞았습니다!!",
+  "memory": 860720,
+  "time": 7076,
+  "language": "PyPy3 / 수정",
+  "codeLength": 557,
+  "submittedAt": "2024년 7월 26일 11:57:30"
+}

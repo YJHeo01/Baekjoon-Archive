@@ -1,0 +1,11 @@
+{
+  "submissionId": 91142729,
+  "problemId": 1988,
+  "problemTitle": "낮잠 시간",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 640,
+  "submittedAt": "2025년 3월 10일 13:40:04"
+}

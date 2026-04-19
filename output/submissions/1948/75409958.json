@@ -1,0 +1,11 @@
+{
+  "submissionId": 75409958,
+  "problemId": 1948,
+  "problemTitle": "임계경로",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 1655,
+  "submittedAt": "2024년 3월 21일 15:44:03"
+}

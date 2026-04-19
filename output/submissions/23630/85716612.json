@@ -1,0 +1,11 @@
+{
+  "submissionId": 85716612,
+  "problemId": 23630,
+  "problemTitle": "가장 긴 부분 수열 구하기",
+  "result": "맞았습니다!!",
+  "memory": 216748,
+  "time": 620,
+  "language": "PyPy3 / 수정",
+  "codeLength": 239,
+  "submittedAt": "2024년 10월 28일 11:43:56"
+}

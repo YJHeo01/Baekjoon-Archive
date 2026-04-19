@@ -1,0 +1,11 @@
+{
+  "submissionId": 75019324,
+  "problemId": 25418,
+  "problemTitle": "정수 a를 k로 만들기",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C99 / 수정",
+  "codeLength": 411,
+  "submittedAt": "2024년 3월 15일 14:25:03"
+}

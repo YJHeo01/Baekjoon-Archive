@@ -1,0 +1,11 @@
+{
+  "submissionId": 60559447,
+  "problemId": 1541,
+  "problemTitle": "잃어버린 괄호",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 801,
+  "submittedAt": "2023년 5월 10일 12:09:37"
+}

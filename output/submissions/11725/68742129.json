@@ -1,0 +1,11 @@
+{
+  "submissionId": 68742129,
+  "problemId": 11725,
+  "problemTitle": "트리의 부모 찾기",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 624,
+  "submittedAt": "2023년 11월 2일 09:16:44"
+}

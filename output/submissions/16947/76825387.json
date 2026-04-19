@@ -1,0 +1,11 @@
+{
+  "submissionId": 76825387,
+  "problemId": 16947,
+  "problemTitle": "서울 지하철 2호선",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 1680,
+  "submittedAt": "2024년 4월 12일 14:25:49"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 80502140,
+  "problemId": 2448,
+  "problemTitle": "별 찍기 - 11",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 1236,
+  "submittedAt": "2024년 7월 4일 14:34:31"
+}

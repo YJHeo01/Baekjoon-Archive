@@ -1,0 +1,11 @@
+{
+  "submissionId": 81059687,
+  "problemId": 17088,
+  "problemTitle": "등차수열 변환",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 986,
+  "submittedAt": "2024년 7월 15일 13:13:51"
+}

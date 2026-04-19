@@ -1,0 +1,11 @@
+{
+  "submissionId": 89008027,
+  "problemId": 25512,
+  "problemTitle": "트리를 간단하게 색칠하는 최소 비용",
+  "result": "맞았습니다!!",
+  "memory": 137480,
+  "time": 284,
+  "language": "PyPy3 / 수정",
+  "codeLength": 848,
+  "submittedAt": "2025년 1월 22일 15:16:23"
+}

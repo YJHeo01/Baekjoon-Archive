@@ -1,0 +1,11 @@
+{
+  "submissionId": 81746899,
+  "problemId": 17216,
+  "problemTitle": "가장 큰 감소 부분 수열",
+  "result": "맞았습니다!!",
+  "memory": 31120,
+  "time": 68,
+  "language": "Python 3 / 수정",
+  "codeLength": 385,
+  "submittedAt": "2024년 7월 29일 16:38:58"
+}

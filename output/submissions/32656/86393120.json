@@ -1,0 +1,11 @@
+{
+  "submissionId": 86393120,
+  "problemId": 32656,
+  "problemTitle": "트리의 루트를 찾아라",
+  "result": "맞았습니다!!",
+  "memory": 146068,
+  "time": 364,
+  "language": "PyPy3 / 수정",
+  "codeLength": 857,
+  "submittedAt": "2024년 11월 13일 16:23:56"
+}

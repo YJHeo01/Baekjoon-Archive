@@ -1,0 +1,15 @@
+{
+  "problemId": 2566,
+  "title": "최댓값",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>&lt;그림 1&gt;과 같이 9×9 격자판에 쓰여진 81개의 자연수 또는 0이 주어질 때, 이들 중 최댓값을 찾고 그 최댓값이 몇 행 몇 열에 위치한 수인지 구하는 프로그램을 작성하시오.</p>\n\n<p>예를 들어, 다음과 같이 81개의 수가 주어지면</p>\n\n<table class=\"table table-bordered td-center th-center table-center-40\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<th>&nbsp;</th>\n\t\t\t<th>1열</th>\n\t\t\t<th>2열</th>\n\t\t\t<th>3열</th>\n\t\t\t<th>4열</th>\n\t\t\t<th>5열</th>\n\t\t\t<th>6열</th>\n\t\t\t<th>7열</th>\n\t\t\t<th>8열</th>\n\t\t\t<th>9열</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>1행</th>\n\t\t\t<td>3</td>\n\t\t\t<td>23</td>\n\t\t\t<td>85</td>\n\t\t\t<td>34</td>\n\t\t\t<td>17</td>\n\t\t\t<td>74</td>\n\t\t\t<td>25</td>\n\t\t\t<td>52</td>\n\t\t\t<td>65</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>2행</th>\n\t\t\t<td>10</td>\n\t\t\t<td>7</td>\n\t\t\t<td>39</td>\n\t\t\t<td>42</td>\n\t\t\t<td>88</td>\n\t\t\t<td>52</td>\n\t\t\t<td>14</td>\n\t\t\t<td>72</td>\n\t\t\t<td>63</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>3행</th>\n\t\t\t<td>87</td>\n\t\t\t<td>42</td>\n\t\t\t<td>18</td>\n\t\t\t<td>78</td>\n\t\t\t<td>53</td>\n\t\t\t<td>45</td>\n\t\t\t<td>18</td>\n\t\t\t<td>84</td>\n\t\t\t<td>53</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>4행</th>\n\t\t\t<td>34</td>\n\t\t\t<td>28</td>\n\t\t\t<td>64</td>\n\t\t\t<td>85</td>\n\t\t\t<td>12</td>\n\t\t\t<td>16</td>\n\t\t\t<td>75</td>\n\t\t\t<td>36</td>\n\t\t\t<td>55</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>5행</th>\n\t\t\t<td>21</td>\n\t\t\t<td>77</td>\n\t\t\t<td>45</td>\n\t\t\t<td>35</td>\n\t\t\t<td>28</td>\n\t\t\t<td>75</td>\n\t\t\t<td>90</td>\n\t\t\t<td>76</td>\n\t\t\t<td>1</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>6행</th>\n\t\t\t<td>25</td>\n\t\t\t<td>87</td>\n\t\t\t<td>65</td>\n\t\t\t<td>15</td>\n\t\t\t<td>28</td>\n\t\t\t<td>11</td>\n\t\t\t<td>37</td>\n\t\t\t<td>28</td>\n\t\t\t<td>74</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>7행</th>\n\t\t\t<td>65</td>\n\t\t\t<td>27</td>\n\t\t\t<td>75</td>\n\t\t\t<td>41</td>\n\t\t\t<td>7</td>\n\t\t\t<td>89</td>\n\t\t\t<td>78</td>\n\t\t\t<td>64</td>\n\t\t\t<td>39</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>8행</th>\n\t\t\t<td>47</td>\n\t\t\t<td>47</td>\n\t\t\t<td>70</td>\n\t\t\t<td>45</td>\n\t\t\t<td>23</td>\n\t\t\t<td>65</td>\n\t\t\t<td>3</td>\n\t\t\t<td>41</td>\n\t\t\t<td>44</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th>9행</th>\n\t\t\t<td>87</td>\n\t\t\t<td>13</td>\n\t\t\t<td>82</td>\n\t\t\t<td>38</td>\n\t\t\t<td>31</td>\n\t\t\t<td>12</td>\n\t\t\t<td>29</td>\n\t\t\t<td>29</td>\n\t\t\t<td>80</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>이들 중 최댓값은 90이고, 이 값은 5행 7열에 위치한다.</p>",
+  "inputDesc": "<p>첫째 줄부터 아홉 번째 줄까지 한 줄에 아홉 개씩 수가 주어진다. 주어지는 수는 100보다 작은 자연수 또는 0이다.</p>",
+  "outputDesc": "<p>첫째 줄에 최댓값을 출력하고, 둘째 줄에 최댓값이 위치한 행 번호와 열 번호를 빈칸을 사이에 두고 차례로 출력한다. 최댓값이 두 개 이상인 경우 그 중 한 곳의 위치를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-19T23:23:05.792Z"
+}

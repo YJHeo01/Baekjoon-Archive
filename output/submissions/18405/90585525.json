@@ -1,0 +1,11 @@
+{
+  "submissionId": 90585525,
+  "problemId": 18405,
+  "problemTitle": "경쟁적 전염",
+  "result": "맞았습니다!!",
+  "memory": 509688,
+  "time": 4596,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1092,
+  "submittedAt": "2025년 2월 26일 13:48:22"
+}

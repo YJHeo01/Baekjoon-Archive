@@ -1,0 +1,11 @@
+{
+  "submissionId": 68757059,
+  "problemId": 2536,
+  "problemTitle": "버스 갈아타기",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1126,
+  "submittedAt": "2023년 11월 2일 15:14:37"
+}

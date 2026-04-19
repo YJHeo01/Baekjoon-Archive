@@ -1,0 +1,11 @@
+{
+  "submissionId": 72853715,
+  "problemId": 31395,
+  "problemTitle": "정렬된 연속한 부분수열의 개수",
+  "result": "맞았습니다!!",
+  "memory": 54036,
+  "time": 160,
+  "language": "Python 3 / 수정",
+  "codeLength": 311,
+  "submittedAt": "2024년 2월 3일 13:16:16"
+}

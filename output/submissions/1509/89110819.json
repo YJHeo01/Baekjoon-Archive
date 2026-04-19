@@ -1,0 +1,11 @@
+{
+  "submissionId": 89110819,
+  "problemId": 1509,
+  "problemTitle": "팰린드롬 분할",
+  "result": "맞았습니다!!",
+  "memory": 138208,
+  "time": 6132,
+  "language": "PyPy3 / 수정",
+  "codeLength": 775,
+  "submittedAt": "2025년 1월 24일 16:04:37"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 77745049,
+  "problemId": 4196,
+  "problemTitle": "도미노",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 1150,
+  "submittedAt": "2024년 5월 2일 09:28:26"
+}

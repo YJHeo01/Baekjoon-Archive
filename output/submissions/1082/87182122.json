@@ -1,0 +1,11 @@
+{
+  "submissionId": 87182122,
+  "problemId": 1082,
+  "problemTitle": "방 번호",
+  "result": "런타임 에러 (ValueError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 827,
+  "submittedAt": "2024년 12월 5일 10:32:06"
+}

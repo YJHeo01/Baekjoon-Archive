@@ -1,0 +1,11 @@
+{
+  "submissionId": 79959029,
+  "problemId": 10811,
+  "problemTitle": "바구니 뒤집기",
+  "result": "런타임 에러 (ArrayIndexOutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "Java 15 / 수정",
+  "codeLength": 725,
+  "submittedAt": "2024년 6월 23일 11:50:49"
+}

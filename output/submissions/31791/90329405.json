@@ -1,0 +1,11 @@
+{
+  "submissionId": 90329405,
+  "problemId": 31791,
+  "problemTitle": "바이러스 공격",
+  "result": "맞았습니다!!",
+  "memory": 324924,
+  "time": 3668,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1115,
+  "submittedAt": "2025년 2월 20일 14:13:33"
+}

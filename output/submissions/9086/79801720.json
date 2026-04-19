@@ -1,0 +1,11 @@
+{
+  "submissionId": 79801720,
+  "problemId": 9086,
+  "problemTitle": "문자열",
+  "result": "런타임 에러 (StringIndexOutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "Java 15 / 수정",
+  "codeLength": 441,
+  "submittedAt": "2024년 6월 19일 13:33:27"
+}

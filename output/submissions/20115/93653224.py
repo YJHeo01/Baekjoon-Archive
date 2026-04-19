@@ -1,0 +1,3 @@
+input()
+a = list(map(int,input().split()))
+print(max(a)+(sum(a)-max(a))/2)

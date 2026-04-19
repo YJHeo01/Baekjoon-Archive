@@ -1,0 +1,11 @@
+{
+  "submissionId": 68716585,
+  "problemId": 1654,
+  "problemTitle": "랜선 자르기",
+  "result": "런타임 에러 (ZeroDivisionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 500,
+  "submittedAt": "2023년 11월 1일 17:15:29"
+}

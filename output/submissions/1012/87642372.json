@@ -1,0 +1,11 @@
+{
+  "submissionId": 87642372,
+  "problemId": 1012,
+  "problemTitle": "유기농 배추",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1741,
+  "submittedAt": "2024년 12월 20일 17:26:17"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 76091383,
+  "problemId": 1915,
+  "problemTitle": "가장 큰 정사각형",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 1248,
+  "submittedAt": "2024년 4월 1일 10:04:11"
+}

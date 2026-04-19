@@ -1,0 +1,11 @@
+{
+  "submissionId": 68396185,
+  "problemId": 19532,
+  "problemTitle": "수학은 비대면강의입니다",
+  "result": "런타임 에러 (ZeroDivisionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 122,
+  "submittedAt": "2023년 10월 24일 15:06:33"
+}

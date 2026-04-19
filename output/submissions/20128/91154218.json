@@ -1,0 +1,11 @@
+{
+  "submissionId": 91154218,
+  "problemId": 20128,
+  "problemTitle": "Parity Constraint Shortest Path",
+  "result": "맞았습니다!!",
+  "memory": 197344,
+  "time": 2456,
+  "language": "PyPy3 / 수정",
+  "codeLength": 790,
+  "submittedAt": "2025년 3월 10일 16:55:33"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 88767937,
+  "problemId": 3013,
+  "problemTitle": "부분 수열의 중앙값",
+  "result": "틀렸습니다",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1104,
+  "submittedAt": "2025년 1월 17일 10:28:00"
+}

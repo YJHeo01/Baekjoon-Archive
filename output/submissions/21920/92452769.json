@@ -1,0 +1,11 @@
+{
+  "submissionId": 92452769,
+  "problemId": 21920,
+  "problemTitle": "서로소 평균",
+  "result": "맞았습니다!!",
+  "memory": 202912,
+  "time": 308,
+  "language": "PyPy3 / 수정",
+  "codeLength": 485,
+  "submittedAt": "2025년 4월 2일 16:47:02"
+}

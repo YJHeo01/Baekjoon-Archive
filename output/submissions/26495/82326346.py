@@ -1,0 +1,63 @@
+a=int(input())
+b=str(a)
+for i in range(1,len(b)+1):
+  if b[i-1]=='0':
+    print('0000')
+    print('0  0')
+    print('0  0')
+    print('0  0')
+    print('0000')
+  elif b[i-1]=='1':
+    print('   1')
+    print('   1')
+    print('   1')
+    print('   1')
+    print('   1')
+  elif b[i-1]=='2':
+    print('2222')
+    print('   2')
+    print('2222')
+    print('2   ')
+    print('2222')
+  elif b[i-1]=='3':
+    print('3333')
+    print('   3')
+    print('3333')
+    print('   3')
+    print('3333')
+  elif b[i-1]=='4':
+    print('4  4')
+    print('4  4')
+    print('4444')
+    print('   4')
+    print('   4')
+  elif b[i-1]=='5':
+    print('5555')
+    print('5   ')
+    print('5555')
+    print('   5')
+    print('5555')
+  elif b[i-1]=='6':
+    print('6666')
+    print('6   ')
+    print('6666')
+    print('6  6')
+    print('6666')
+  elif b[i-1]=='7':
+    print('7777')
+    print('   7')
+    print('   7')
+    print('   7')
+    print('   7')
+  elif b[i-1]=='8':
+    print('8888')
+    print('8  8')
+    print('8888')
+    print('8  8')
+    print('8888')
+  elif b[i-1]=='9':
+    print('9999')
+    print('9  9')
+    print('9999')
+    print('   9')
+    print('   9')

@@ -1,0 +1,11 @@
+{
+  "submissionId": 51544113,
+  "problemId": 1152,
+  "problemTitle": "단어의 개수",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C99 / 수정",
+  "codeLength": 309,
+  "submittedAt": "2022년 11월 10일 14:24:36"
+}

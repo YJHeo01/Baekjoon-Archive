@@ -1,0 +1,11 @@
+{
+  "submissionId": 86508106,
+  "problemId": 32339,
+  "problemTitle": "대동여지도",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1036,
+  "submittedAt": "2024년 11월 16일 15:07:46"
+}

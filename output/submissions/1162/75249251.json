@@ -1,0 +1,11 @@
+{
+  "submissionId": 75249251,
+  "problemId": 1162,
+  "problemTitle": "도로포장",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 794,
+  "submittedAt": "2024년 3월 19일 13:26:56"
+}

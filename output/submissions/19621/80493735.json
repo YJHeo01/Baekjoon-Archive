@@ -1,0 +1,11 @@
+{
+  "submissionId": 80493735,
+  "problemId": 19621,
+  "problemTitle": "회의실 배정 2",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 373,
+  "submittedAt": "2024년 7월 4일 11:19:03"
+}

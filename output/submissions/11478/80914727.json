@@ -1,0 +1,11 @@
+{
+  "submissionId": 80914727,
+  "problemId": 11478,
+  "problemTitle": "서로 다른 부분 문자열의 개수",
+  "result": "맞았습니다!!",
+  "memory": 239524,
+  "time": 576,
+  "language": "Python 3 / 수정",
+  "codeLength": 345,
+  "submittedAt": "2024년 7월 12일 10:42:15"
+}

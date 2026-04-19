@@ -1,0 +1,14 @@
+{
+  "problemId": 2557,
+  "title": "Hello World",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>\n\tHello World!를 출력하시오.</p>",
+  "inputDesc": "<p>\n\t없음</p>",
+  "outputDesc": "<p>\n\tHello World!를 출력하시오.</p>",
+  "tags": [
+    "성공",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-19T23:22:26.013Z"
+}

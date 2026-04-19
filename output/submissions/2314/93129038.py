@@ -1,0 +1,36 @@
+from collections import deque
+
+start = ""
+
+for _ in range(4):
+    start += input()
+
+queue = deque([start])
+
+visited = dict()
+
+visited[start] = 0
+
+dx = [4,-4,1,-1]
+
+while queue:
+    cur_state = queue.popleft()
+    for i in range(16):
+        for j in range(4):
+            tmp = list(cur_state)
+            tmp[i], tmp[(i+dx[j])%16] = tmp[(i+dx[j])%16], tmp[i]
+            next_state = ""
+            for k in range(16):
+                next_state += tmp[k]
+            if next_state not in visited:
+                visited[next_state] = visited[cur_state] + 1
+                queue.append(next_state)
+
+input()
+
+end = ""
+
+for _ in range(4):
+    end += input()
+    
+print(visited[end])

@@ -1,0 +1,11 @@
+{
+  "submissionId": 80009626,
+  "problemId": 7662,
+  "problemTitle": "이중 우선순위 큐",
+  "result": "맞았습니다!!",
+  "memory": 299672,
+  "time": 3804,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1617,
+  "submittedAt": "2024년 6월 24일 15:47:27"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 86990934,
+  "problemId": 14003,
+  "problemTitle": "가장 긴 증가하는 부분 수열 5",
+  "result": "맞았습니다!!",
+  "memory": 280188,
+  "time": 540,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1124,
+  "submittedAt": "2024년 11월 29일 16:12:09"
+}

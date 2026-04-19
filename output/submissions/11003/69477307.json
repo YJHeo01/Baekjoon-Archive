@@ -1,0 +1,11 @@
+{
+  "submissionId": 69477307,
+  "problemId": 11003,
+  "problemTitle": "최솟값 찾기",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 631,
+  "submittedAt": "2023년 11월 20일 14:30:14"
+}

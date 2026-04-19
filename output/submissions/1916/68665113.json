@@ -1,0 +1,11 @@
+{
+  "submissionId": 68665113,
+  "problemId": 1916,
+  "problemTitle": "최소비용 구하기",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 685,
+  "submittedAt": "2023년 10월 31일 15:35:00"
+}

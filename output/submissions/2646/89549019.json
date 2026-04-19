@@ -1,0 +1,11 @@
+{
+  "submissionId": 89549019,
+  "problemId": 2646,
+  "problemTitle": "같은 길이 막대기 만들기",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1737,
+  "submittedAt": "2025년 2월 4일 17:17:57"
+}

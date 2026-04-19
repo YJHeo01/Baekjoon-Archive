@@ -1,0 +1,11 @@
+{
+  "submissionId": 87075416,
+  "problemId": 3099,
+  "problemTitle": "도트 매트릭스 프린터",
+  "result": "맞았습니다!!",
+  "memory": 114000,
+  "time": 244,
+  "language": "PyPy3 / 수정",
+  "codeLength": 497,
+  "submittedAt": "2024년 12월 2일 09:46:10"
+}

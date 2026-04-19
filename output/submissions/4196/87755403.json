@@ -1,0 +1,11 @@
+{
+  "submissionId": 87755403,
+  "problemId": 4196,
+  "problemTitle": "도미노",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1265,
+  "submittedAt": "2024년 12월 24일 10:16:46"
+}

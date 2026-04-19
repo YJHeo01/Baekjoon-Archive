@@ -1,0 +1,11 @@
+{
+  "submissionId": 68744206,
+  "problemId": 1991,
+  "problemTitle": "트리 순회",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 1399,
+  "submittedAt": "2023년 11월 2일 10:17:07"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 90491745,
+  "problemId": 13925,
+  "problemTitle": "수열과 쿼리 13",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 2054,
+  "submittedAt": "2025년 2월 24일 13:27:17"
+}

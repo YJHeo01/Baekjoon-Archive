@@ -1,0 +1,11 @@
+{
+  "submissionId": 70239942,
+  "problemId": 9663,
+  "problemTitle": "N-Queen",
+  "result": "맞았습니다!!",
+  "memory": 132900,
+  "time": 14920,
+  "language": "PyPy3 / 수정",
+  "codeLength": 624,
+  "submittedAt": "2023년 12월 11일 13:31:18"
+}

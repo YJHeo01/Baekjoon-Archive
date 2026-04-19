@@ -1,0 +1,11 @@
+{
+  "submissionId": 87249317,
+  "problemId": 11437,
+  "problemTitle": "LCA",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1241,
+  "submittedAt": "2024년 12월 7일 15:38:37"
+}

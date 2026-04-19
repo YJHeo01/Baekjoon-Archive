@@ -1,0 +1,11 @@
+{
+  "submissionId": 68151409,
+  "problemId": 1753,
+  "problemTitle": "최단경로",
+  "result": "맞았습니다!!",
+  "memory": 159060,
+  "time": 636,
+  "language": "PyPy3 / 수정",
+  "codeLength": 760,
+  "submittedAt": "2023년 10월 18일 14:28:13"
+}

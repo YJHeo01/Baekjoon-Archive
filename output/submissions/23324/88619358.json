@@ -1,0 +1,11 @@
+{
+  "submissionId": 88619358,
+  "problemId": 23324,
+  "problemTitle": "어려운 모든 정점 쌍 최단 거리",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 955,
+  "submittedAt": "2025년 1월 14일 11:06:36"
+}

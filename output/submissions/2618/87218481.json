@@ -1,0 +1,11 @@
+{
+  "submissionId": 87218481,
+  "problemId": 2618,
+  "problemTitle": "경찰차",
+  "result": "런타임 에러 (UnboundLocalError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1964,
+  "submittedAt": "2024년 12월 6일 13:33:46"
+}

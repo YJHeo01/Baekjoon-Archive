@@ -1,0 +1,11 @@
+{
+  "submissionId": 69061205,
+  "problemId": 1167,
+  "problemTitle": "트리의 지름",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 678,
+  "submittedAt": "2023년 11월 9일 17:06:59"
+}

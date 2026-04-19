@@ -1,0 +1,11 @@
+{
+  "submissionId": 81380613,
+  "problemId": 1182,
+  "problemTitle": "부분수열의 합",
+  "result": "런타임 에러 (UnboundLocalError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 420,
+  "submittedAt": "2024년 7월 21일 18:37:53"
+}

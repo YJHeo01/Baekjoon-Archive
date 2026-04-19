@@ -1,0 +1,11 @@
+{
+  "submissionId": 83185050,
+  "problemId": 30805,
+  "problemTitle": "사전 순 최대 공통 부분 수열",
+  "result": "맞았습니다!!",
+  "memory": 33188,
+  "time": 36,
+  "language": "Python 3 / 수정",
+  "codeLength": 1313,
+  "submittedAt": "2024년 8월 30일 13:40:44"
+}

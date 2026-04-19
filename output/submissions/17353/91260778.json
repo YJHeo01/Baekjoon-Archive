@@ -1,0 +1,11 @@
+{
+  "submissionId": 91260778,
+  "problemId": 17353,
+  "problemTitle": "하늘에서 떨어지는 1, 2, ..., R-L+1개의 별",
+  "result": "맞았습니다!!",
+  "memory": 138992,
+  "time": 1048,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1896,
+  "submittedAt": "2025년 3월 12일 14:12:20"
+}

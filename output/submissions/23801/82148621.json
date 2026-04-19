@@ -1,0 +1,11 @@
+{
+  "submissionId": 82148621,
+  "problemId": 23801,
+  "problemTitle": "두 단계 최단 경로 2",
+  "result": "맞았습니다!!",
+  "memory": 182592,
+  "time": 1748,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1219,
+  "submittedAt": "2024년 8월 7일 10:19:32"
+}

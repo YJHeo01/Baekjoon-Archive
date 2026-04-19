@@ -1,0 +1,11 @@
+{
+  "submissionId": 68068391,
+  "problemId": 20529,
+  "problemTitle": "가장 가까운 세 사람의 심리적 거리",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 586,
+  "submittedAt": "2023년 10월 16일 17:40:04"
+}

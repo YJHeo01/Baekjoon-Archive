@@ -1,0 +1,11 @@
+{
+  "submissionId": 90724830,
+  "problemId": 23302,
+  "problemTitle": "전파와 병합 2",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1126,
+  "submittedAt": "2025년 3월 1일 16:10:55"
+}

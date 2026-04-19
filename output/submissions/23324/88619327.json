@@ -1,0 +1,11 @@
+{
+  "submissionId": 88619327,
+  "problemId": 23324,
+  "problemTitle": "어려운 모든 정점 쌍 최단 거리",
+  "result": "맞았습니다!!",
+  "memory": 133612,
+  "time": 320,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1072,
+  "submittedAt": "2025년 1월 14일 11:05:44"
+}

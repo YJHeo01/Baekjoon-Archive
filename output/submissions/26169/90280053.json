@@ -1,0 +1,11 @@
+{
+  "submissionId": 90280053,
+  "problemId": 26169,
+  "problemTitle": "세 번 이내에 사과를 먹자",
+  "result": "맞았습니다!!",
+  "memory": 108384,
+  "time": 92,
+  "language": "PyPy3 / 수정",
+  "codeLength": 744,
+  "submittedAt": "2025년 2월 19일 13:56:33"
+}

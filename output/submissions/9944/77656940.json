@@ -1,0 +1,11 @@
+{
+  "submissionId": 77656940,
+  "problemId": 9944,
+  "problemTitle": "NxM 보드 완주하기",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 3345,
+  "submittedAt": "2024년 4월 30일 14:09:01"
+}

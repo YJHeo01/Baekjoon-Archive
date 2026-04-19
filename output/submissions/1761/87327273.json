@@ -1,0 +1,11 @@
+{
+  "submissionId": 87327273,
+  "problemId": 1761,
+  "problemTitle": "정점들의 거리",
+  "result": "맞았습니다!!",
+  "memory": 131740,
+  "time": 240,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1799,
+  "submittedAt": "2024년 12월 10일 09:57:35"
+}

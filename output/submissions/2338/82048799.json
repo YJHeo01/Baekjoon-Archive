@@ -1,0 +1,11 @@
+{
+  "submissionId": 82048799,
+  "problemId": 2338,
+  "problemTitle": "긴자리 계산",
+  "result": "런타임 에러 (ValueError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 63,
+  "submittedAt": "2024년 8월 5일 10:47:59"
+}

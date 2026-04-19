@@ -1,0 +1,17 @@
+{
+  "problemId": 1008,
+  "title": "A/B",
+  "timeLimit": "2 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>두 정수 A와 B를 입력받은 다음, A/B를 출력하는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>첫째 줄에 A와 B가 주어진다. (0 &lt; A, B &lt; 10)</p>",
+  "outputDesc": "<p>첫째 줄에 A/B를 출력한다.&nbsp;실제 정답과 출력값의 절대오차 또는 상대오차가 10<sup>-9</sup> 이하이면 정답이다.</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-19T22:41:55.898Z"
+}

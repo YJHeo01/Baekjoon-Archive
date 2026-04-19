@@ -1,0 +1,11 @@
+{
+  "submissionId": 85094482,
+  "problemId": 16978,
+  "problemTitle": "수열과 쿼리 22",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1997,
+  "submittedAt": "2024년 10월 12일 11:49:09"
+}

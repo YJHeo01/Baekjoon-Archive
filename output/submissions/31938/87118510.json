@@ -1,0 +1,11 @@
+{
+  "submissionId": 87118510,
+  "problemId": 31938,
+  "problemTitle": "현대모비스 트럭 군집주행",
+  "result": "맞았습니다!!",
+  "memory": 198076,
+  "time": 980,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1524,
+  "submittedAt": "2024년 12월 3일 14:07:42"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 49482097,
+  "problemId": 1003,
+  "problemTitle": "피보나치 함수",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 662,
+  "submittedAt": "2022년 9월 21일 21:23:11"
+}

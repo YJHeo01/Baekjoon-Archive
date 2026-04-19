@@ -1,0 +1,11 @@
+{
+  "submissionId": 69470328,
+  "problemId": 2206,
+  "problemTitle": "벽 부수고 이동하기",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1631,
+  "submittedAt": "2023년 11월 20일 10:54:20"
+}

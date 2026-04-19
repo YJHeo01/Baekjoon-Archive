@@ -1,0 +1,11 @@
+{
+  "submissionId": 68055734,
+  "problemId": 1003,
+  "problemTitle": "피보나치 함수",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 288,
+  "submittedAt": "2023년 10월 16일 13:40:23"
+}

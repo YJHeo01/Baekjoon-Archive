@@ -1,0 +1,11 @@
+{
+  "submissionId": 80684002,
+  "problemId": 1967,
+  "problemTitle": "트리의 지름",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 1150,
+  "submittedAt": "2024년 7월 8일 09:49:44"
+}

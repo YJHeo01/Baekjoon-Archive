@@ -1,0 +1,11 @@
+{
+  "submissionId": 87599331,
+  "problemId": 2150,
+  "problemTitle": "Strongly Connected Component",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1038,
+  "submittedAt": "2024년 12월 19일 11:54:32"
+}

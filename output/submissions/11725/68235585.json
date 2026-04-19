@@ -1,0 +1,11 @@
+{
+  "submissionId": 68235585,
+  "problemId": 11725,
+  "problemTitle": "트리의 부모 찾기",
+  "result": "런타임 에러 (RecursionError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 567,
+  "submittedAt": "2023년 10월 20일 09:25:26"
+}

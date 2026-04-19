@@ -1,0 +1,11 @@
+{
+  "submissionId": 90294662,
+  "problemId": 32410,
+  "problemTitle": "용감한 용사 수호",
+  "result": "런타임 에러 (ValueError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1251,
+  "submittedAt": "2025년 2월 19일 17:56:42"
+}

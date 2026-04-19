@@ -1,0 +1,11 @@
+{
+  "submissionId": 68434254,
+  "problemId": 18405,
+  "problemTitle": "경쟁적 전염",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3 / 수정",
+  "codeLength": 831,
+  "submittedAt": "2023년 10월 25일 14:01:45"
+}

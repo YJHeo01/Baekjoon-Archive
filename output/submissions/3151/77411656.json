@@ -1,0 +1,11 @@
+{
+  "submissionId": 77411656,
+  "problemId": 3151,
+  "problemTitle": "합이 0",
+  "result": "런타임 에러 (UnboundLocalError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 2412,
+  "submittedAt": "2024년 4월 24일 15:48:33"
+}

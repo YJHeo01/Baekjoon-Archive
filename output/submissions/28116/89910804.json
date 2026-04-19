@@ -1,0 +1,11 @@
+{
+  "submissionId": 89910804,
+  "problemId": 28116,
+  "problemTitle": "선택 정렬의 이동 거리",
+  "result": "맞았습니다!!",
+  "memory": 202804,
+  "time": 284,
+  "language": "PyPy3 / 수정",
+  "codeLength": 338,
+  "submittedAt": "2025년 2월 11일 15:34:42"
+}

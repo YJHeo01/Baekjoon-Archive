@@ -1,0 +1,11 @@
+{
+  "submissionId": 92509384,
+  "problemId": 25977,
+  "problemTitle": "k개 사과 트리 노드만으로 배를 최대로 수확하기",
+  "result": "맞았습니다!!",
+  "memory": 114820,
+  "time": 184,
+  "language": "PyPy3 / 수정",
+  "codeLength": 912,
+  "submittedAt": "2025년 4월 3일 14:20:41"
+}

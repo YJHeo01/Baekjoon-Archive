@@ -1,0 +1,25 @@
+from collections import deque
+
+def main():
+    array = list(map(int,input().split()))
+    a,b = map(int,input().split())
+    print(bfs(array,[-1]*(n+1),a-1)[b-1])
+
+def bfs(graph,visited,start):
+    queue = deque([start])
+    visited[start] = 0
+    while queue:
+        vx = queue.popleft()
+        for dx in [graph[vx],-graph[vx]]:
+            nx = vx
+            while True:
+                nx += dx
+                if nx < 0 or nx >= n: break
+                if visited[nx] != -1: continue
+                visited[nx] = visited[vx] + 1
+                queue.append(nx)
+    return visited
+
+if __name__ == "__main__":
+    n = int(input())
+    main()

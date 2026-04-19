@@ -1,0 +1,11 @@
+{
+  "submissionId": 91326682,
+  "problemId": 23840,
+  "problemTitle": "두 단계 최단 경로 4",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17 / 수정",
+  "codeLength": 2489,
+  "submittedAt": "2025년 3월 13일 16:52:34"
+}

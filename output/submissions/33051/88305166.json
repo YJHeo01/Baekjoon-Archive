@@ -1,0 +1,11 @@
+{
+  "submissionId": 88305166,
+  "problemId": 33051,
+  "problemTitle": "나는 이 우마를 지배할 수 있다",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3 / 수정",
+  "codeLength": 1304,
+  "submittedAt": "2025년 1월 7일 15:39:29"
+}
