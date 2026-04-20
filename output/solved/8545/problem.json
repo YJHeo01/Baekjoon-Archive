@@ -1,0 +1,16 @@
+{
+  "problemId": 8545,
+  "title": "Zadanie próbne",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Napisz program, który odwraca podane słowo trzyliterowe.</p>",
+  "inputDesc": "<p>W pierwszym i jedynym wierszu podane jest jedno słowo trzyliterowe.</p>",
+  "outputDesc": "<p>Pierwszy i jedyny wiersz wyjścia powinien zawierać odwrócone słowo wejściowe.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-20T07:58:32.312Z"
+}

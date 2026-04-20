@@ -1,0 +1,14 @@
+{
+  "problemId": 10189,
+  "title": "Hook",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Print out the word Hook as shown below.</p>",
+  "outputDesc": "<p>Print out the word Hook as shown below.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T08:19:23.552Z"
+}

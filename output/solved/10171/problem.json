@@ -1,0 +1,16 @@
+{
+  "problemId": 10171,
+  "title": "고양이",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>아래 예제와 같이 고양이를 출력하시오.</p>",
+  "inputDesc": "<p>없음.</p>",
+  "outputDesc": "<p>고양이를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T08:19:16.979Z"
+}

@@ -1,0 +1,15 @@
+{
+  "problemId": 10699,
+  "title": "오늘 날짜",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>서울의 오늘 날짜를 출력하는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>입력은 없다.</p>",
+  "outputDesc": "<p>서울의 오늘 날짜를 \"YYYY-MM-DD\" 형식으로 출력한다.</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T08:20:40.901Z"
+}

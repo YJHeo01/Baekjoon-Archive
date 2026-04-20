@@ -1,0 +1,16 @@
+{
+  "problemId": 10170,
+  "title": "NFC West vs North",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>동혁이를 위해 NFC 서부와 북부 디비전 순위를 출력하는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>없음</p>",
+  "outputDesc": "<p>예제와 같이 NFC 서부와 북부 디비전 순위를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T08:19:13.227Z"
+}
