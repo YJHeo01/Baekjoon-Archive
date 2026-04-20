@@ -1,0 +1,25 @@
+import sys
+
+input = sys.stdin.readline
+
+n,m = map(int,input().split())
+
+vertex = [0]*(n+1)
+edge = []
+for i in range(m):
+    a,b = map(int,input().split())
+    a,b = min(a,b),max(a,b)
+    edge.append((a,b))
+edge.sort()
+
+for e in edge:
+    if vertex[e[0]] == 0:
+        vertex[e[0]] = e[0]
+    vertex[e[1]] = vertex[e[0]]
+
+v_list = []
+for i in range(1,n+1):
+    if vertex[i] not in v_list:
+        v_list.append(vertex[i])
+
+print(len(v_list)) 

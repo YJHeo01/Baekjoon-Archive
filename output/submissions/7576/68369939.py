@@ -1,0 +1,50 @@
+from collections import deque
+
+INF = 3000
+m, n = map(int,input().split())
+box = []
+visited = [ [INF]*m for _ in range(n)]
+for i in range(n):
+    tmp = list(map(int,input().split()))
+    box.append(tmp)
+t = []
+answer = 0
+
+def bfs(array,x,y):
+    visited[x][y] = 0
+    queue_x = deque([x])
+    queue_y = deque([y])
+    dx = [0,0,1,-1]
+    dy = [1,-1,0,0]
+    while queue_x:
+        vx = queue_x.popleft()
+        vy = queue_y.popleft()
+        for i in range(4):
+            nx = vx + dx[i]
+            ny = vy + dy[i]
+            if nx >=0 and ny >= 0 and nx < n and ny < m:
+                if visited[nx][ny] > visited[vx][vy] + 1:
+                    visited[nx][ny] = visited[vx][vy] + 1
+                    if array[nx][ny] == 0:
+                        queue_x.append(nx)
+                        queue_y.append(ny)
+    
+
+for i in range(n):
+    for j in range(m):
+        if box[i][j] == 1:
+            bfs(box,i,j)
+        elif box[i][j] == 0:
+            t.append((i,j))
+            
+
+for i in t:
+    if visited[i[0]][i[1]] == INF:
+        answer = -1
+        break
+    else:
+        answer = max(answer,visited[i[0]][i[1]])
+
+if t == []:
+    answer = 0
+print(answer)
