@@ -1,0 +1,15 @@
+{
+  "problemId": 5337,
+  "title": "웰컴",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>\n\tWelcome을 예제 출력처럼 출력하는 프로그램을 작성하시오.</p>",
+  "outputDesc": "<p>\n\tWelcome을 아래 예제 출력처럼 출력한다.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T01:32:48.030Z"
+}
