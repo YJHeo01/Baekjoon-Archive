@@ -24,8 +24,7 @@
 
 ```text id="y0d9j2"
 .
-output/
-├── metadata.json
+
 ├── profile/
 │   ├── profile.json
 │   └── screenshots/
