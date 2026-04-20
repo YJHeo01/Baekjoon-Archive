@@ -1,0 +1,16 @@
+{
+  "problemId": 15687,
+  "title": "직사각형",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>직사각형의 정보를 저장할 클래스 Rectangle을 구현하시오.</p>\n\n<ul>\n\t<li>C++14, C++17\n\t<ul>\n\t\t<li>클래스 이름: <code>Rectangle</code></li>\n\t\t<li><code>생성자</code>\n\t\t<ul>\n\t\t\t<li><code>Rectangle(width, height)</code>: 직사각형의 가로 길이를&nbsp;<code>width</code>, 세로 길이를 <code>height</code> 설정한다. <code>width</code>는 1,000보다 작거나 같은 자연수,&nbsp;<code>height</code>는 2,000보다 작거나 같은 자연수이다.</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>멤버 변수\n\t\t<ul>\n\t\t\t<li><code>int width</code>: 직사각형의 가로 길이</li>\n\t\t\t<li><code>int height</code>: 직사각형의 세로 길이</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>멤버 함수\n\t\t<ul>\n\t\t\t<li><code>int get_width() const</code>: 직사각형의 가로 길이를 리턴한다.</li>\n\t\t\t<li><code>int get_height() const</code>: 직사각형의 세로 길이를 리턴한다.</li>\n\t\t\t<li><code>void set_width(int width)</code>: 직사각형의 가로 길이를 <code>width</code>로 변경한다. 만약, <code>width</code>가 0보다 작거나 같거나, 1,000보다 크면 변경하지 않는다.</li>\n\t\t\t<li><code>void set_height(int height)</code>: 직사각형의 세로 길이를 <code>height</code>로 변경한다. 만약, <code>height</code>가 0보다 작거나 같거나,&nbsp;2,000보다 크면 변경하지 않는다.</li>\n\t\t\t<li><code>int area() const</code>: 직사각형의 넓이를 리턴한다.</li>\n\t\t\t<li><code>int perimeter() const</code>: 직사각형의 둘레 길이를 리턴한다.</li>\n\t\t\t<li><code>bool is_square() const</code>: 정사각형이면 <code>true</code>, 아니면 <code>false</code>를 리턴한다.</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>",
+  "tags": [
+    "실패",
+    "언어 제한",
+    "클래스 구현",
+    "보기",
+    "구현",
+    "기하학"
+  ],
+  "fetchedAt": "2026-04-20T11:26:01.108Z"
+}

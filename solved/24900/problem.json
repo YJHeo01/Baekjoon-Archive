@@ -1,0 +1,13 @@
+{
+  "problemId": 24900,
+  "title": "한별 찍기",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>한별이를&nbsp;출력하는 프로그램을 작성하시오.</p>",
+  "outputDesc": "<p>한별이를 아래 예제 출력과 같이 출력한다.</p>",
+  "tags": [
+    "성공",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T10:22:40.795Z"
+}

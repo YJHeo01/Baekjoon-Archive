@@ -1,0 +1,20 @@
+{
+  "problemId": 19525,
+  "title": "Rectangle-free Grid",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>Construct an $N \\times N$ grid with the following conditions:</p>\n\n<ul>\n\t<li>$2 \\leq N \\leq 150$</li>\n\t<li>Each cell is filled with either '<code>O</code>' or '<code>.</code>'.</li>\n\t<li>There are at least 1700 cells with '<code>O</code>'.</li>\n\t<li>For each tuple of four integers $i, j, k, l$ such that $1 \\leq i &lt; j \\leq N$ and $1 \\leq k &lt; l \\leq N$, at least one of the four cells $(i,k)$, $(i,l)$, $(j,k)$, $(j,l)$ is filled with '<code>.</code>'.</li>\n</ul>",
+  "inputDesc": "<p>There is no input.</p>",
+  "outputDesc": "<p>The first line should contain an integer $N$. The following $N$ lines should contain $N$ characters each ('<code>O</code>' or '<code>.</code>'), and these $N$ lines describe the grid.</p>",
+  "tags": [
+    "실패",
+    "스페셜 저지",
+    "다국어",
+    "보기",
+    "수학",
+    "애드 혹",
+    "정수론",
+    "해 구성하기"
+  ],
+  "fetchedAt": "2026-04-20T11:27:30.097Z"
+}

@@ -1,0 +1,17 @@
+{
+  "problemId": 33557,
+  "title": "곱셈을 누가 이렇게 해 ㅋㅋ",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p style=\"text-align: center;\"><img alt=\"\" src=\"https://upload.acmicpc.net/fe0497ad-0004-41cd-a7b8-63d2f54ac191/-/preview/\" style=\"height: 226px; width: 600px;\"></p>\n\n<p style=\"text-align: center;\">어?</p>\n\n<p>$A \\times B$를 세로식 곱셈에서 받아올림을 하지 않고 바로 결과에 적는 잘못된 곱셈 결과가 일반 곱셈 결과와 같은지 판별해 보자. 만약 두 수의 자릿수가 달라 잘못된 곱셈에서 자릿수가 짧은 수의 자리가 비어 있는 경우, 자릿수가 긴 수의 숫자만을 결과에 기록한다.</p>",
+  "inputDesc": "<p>총 $T$개의 테스트 케이스가 입력으로 주어지며, 첫째 줄에 $T$가 주어진다. $(1 \\le T \\le 1\\,000)$ </p>\n\n<p>테스트 케이스의 첫째 줄에 정수 $A$와 $B$가 공백으로 구분되어 주어진다. $(1 \\le A, B \\le 10^6)$ </p>",
+  "outputDesc": "<p>각 테스트 케이스마다 한 줄에 잘못된 곱셈 결과가 일반 곱셈 결과와 같다면 <span style=\"color:#e74c3c;\"><code>1</code></span>을, 같지 않다면 <span style=\"color:#e74c3c;\"><code>0</code></span>을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "수학",
+    "구현",
+    "문자열",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-20T11:02:40.880Z"
+}

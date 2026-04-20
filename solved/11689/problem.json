@@ -1,0 +1,16 @@
+{
+  "problemId": 11689,
+  "title": "GCD(n, k) = 1",
+  "timeLimit": "1 초",
+  "memoryLimit": "256 MB",
+  "description": "<p>자연수 n이 주어졌을 때, GCD(n, k) = 1을 만족하는 자연수 1 ≤ k ≤ n 의 개수를 구하는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>첫째 줄에 자연수 n (1 ≤ n ≤ 10<sup>12</sup>)이 주어진다.</p>",
+  "outputDesc": "<p>GCD(n, k) = 1을 만족하는 자연수 1 ≤ k ≤ n 의 개수를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "수학",
+    "정수론",
+    "오일러 피 함수"
+  ],
+  "fetchedAt": "2026-04-20T09:26:59.570Z"
+}

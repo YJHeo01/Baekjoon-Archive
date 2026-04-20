@@ -1,0 +1,18 @@
+{
+  "problemId": 25462,
+  "title": "Inverzije",
+  "timeLimit": "4 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>Neka je zadana permutacija $P$ duljine $N$. Permutacija duljine $N$ je niz čiji su elementi različiti prirodni brojevi od $1$ do $N$. Broj inverzija neke permutacije je broj parova $(i, j)$ takvih da je $1 ≤ i &lt; j ≤ N$ i $P_i &gt; P_j$.</p>\n\n<p>Isto tako, broj inverzija permutacija $P$ na intervalu od a do b je broj parova $(i, j)$ takvih da je $a ≤ i &lt; j ≤ b$ i $P_i &gt; P_j$.</p>\n\n<p>Tvoj zadatak je da za zadanu permutaciju $P$ i $M$ zadanih intervala odrediš broj inverzija na svakom od njih.</p>",
+  "inputDesc": "<p>U prvom su retku prirodni brojevi $N$ ($1 ≤ N ≤ 100\\,000$) i $M$ ($1 ≤ M ≤ 100\\,000$), brojevi iz teksta zadatka.</p>\n\n<p>U drugom retku je $N$ različitih prirodnih brojeva $P_i$ ($1 ≤ P_i ≤ N$).</p>\n\n<p>U sljedećih $M$ redaka su prirodni brojevi $a_i$ i $b_i$ ($1 ≤ a_i ≤ b_i ≤ N$), granice intervala čiji broj inverzija tražimo.</p>",
+  "outputDesc": "<p>Za svaki od $M$ intervala ispiši broj inverzija permutacije $P$ unutar njega.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "자료 구조",
+    "세그먼트 트리",
+    "오프라인 쿼리",
+    "mo's"
+  ],
+  "fetchedAt": "2026-04-20T10:26:45.466Z"
+}

@@ -1,0 +1,17 @@
+{
+  "problemId": 23843,
+  "title": "콘센트",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>광재는 전자기기 대여사업을 시작했다. 퇴근하기 전에 다음날 손님들에게 빌려줄 <em>N</em>개의 전자기기를&nbsp;충전하려 한다. 사용 가능한 콘센트는 <em>M</em>개가 있고, 성능은 모두 동일하다.</p>\n\n<p>전자기기들은 한 번에 하나의 콘센트에서만 충전이 가능하고, 충전에 필요한 시간은 2<em><sup>k</sup></em>(0 ≤ <em>k</em> ≤ 15, <em>k</em>는 정수)<em><sup>&nbsp;</sup></em>형태이다.</p>\n\n<p>광재의 빠른 퇴근을 위해 모든 전자기기를 충전하기 위한 최소 시간이&nbsp;얼마인지 알려주자.</p>",
+  "inputDesc": "<p>첫째 줄에 전자기기의 개수 <em>N</em>과 콘센트의 개수 <em>M</em>이 주어진다. (1 ≤&nbsp;<em>N&nbsp;</em>≤ 10,000, 1 ≤ <em>M</em> ≤ 10)</p>\n\n<p>둘째 줄에 충전에 필요한 시간 <em>t<sub>i</sub></em>를 나타내는&nbsp;<em>N</em>개의 정수가&nbsp;주어진다. (2<sup>0&nbsp;</sup>​≤ <em>t</em><sub><em>i</em>&nbsp;</sub>≤ 2<sup>15</sup>, t<sub>i&nbsp;</sub>= 2<sup>k&nbsp;</sup>(0 ≤ <em>k</em> ≤ 15, <em>k</em>는 정수))</p>",
+  "outputDesc": "<p>충전에 필요한 최소 시간을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "자료 구조",
+    "그리디 알고리즘",
+    "정렬",
+    "우선순위 큐"
+  ],
+  "fetchedAt": "2026-04-20T10:19:25.922Z"
+}

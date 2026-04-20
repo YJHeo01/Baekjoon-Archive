@@ -1,0 +1,14 @@
+{
+  "problemId": 15680,
+  "title": "연세대학교",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p style=\"text-align: center;\"><img alt=\"\" src=\"https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15680/1.png\" style=\"width: 449px; height: 134px;\"></p>\n\n<p>연세대학교의 영문명은 YONSEI, 슬로건은 Leading the Way to the Future이다.</p>\n\n<p>이를 출력하는 프로그램을 작성해보도록 하자.</p>",
+  "inputDesc": "<p>첫째 줄에 N이 주어진다. (N = 0 또는 1)</p>",
+  "outputDesc": "<ul>\n\t<li>N = 0일 경우: 연세대학교의 영문명을 출력한다.</li>\n\t<li>N = 1일 경우: 연세대학교의 슬로건을 출력한다.</li>\n</ul>\n\n<p>대소문자 구별에 주의하도록 하자.</p>",
+  "tags": [
+    "성공",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T09:44:39.243Z"
+}

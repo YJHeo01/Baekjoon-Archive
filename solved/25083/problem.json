@@ -1,0 +1,15 @@
+{
+  "problemId": 25083,
+  "title": "새싹",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>아래 예제와 같이 새싹을 출력하시오.</p>",
+  "inputDesc": "<p>입력은 없다.</p>",
+  "outputDesc": "<p>새싹을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "언어 제한",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T10:22:53.825Z"
+}

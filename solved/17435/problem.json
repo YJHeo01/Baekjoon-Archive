@@ -1,0 +1,15 @@
+{
+  "problemId": 17435,
+  "title": "합성함수와 쿼리",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>함수 f : {1, 2, ..., m}→{1, 2, ..., m}이 있다. 이때&nbsp;f<sub>n</sub> : {1, 2, ..., m}→{1, 2, ..., m}을 다음과 같이 정의하자.</p>\n\n<ul>\n\t<li>f<sub>1</sub>(x) = f(x)</li>\n\t<li>f<sub>n+1</sub>(x) = f(f<sub>n</sub>(x))</li>\n</ul>\n\n<p>예를 들어 f<sub>4</sub>(1) = f(f(f(f(1))))이다.</p>\n\n<p>n과 x가 주어질 때 f<sub>n</sub>(x)를 계산하는 쿼리를 수행하는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>첫 줄에 정수 m이 주어진다. (1&nbsp;≤ m&nbsp;≤ 200,000)</p>\n\n<p>다음 줄에 f(1), f(2), ..., f(m)이 차례대로 주어진다.</p>\n\n<p>다음 줄에 쿼리의 개수 Q가 주어진다. (1&nbsp;≤ Q&nbsp;≤ 200,000)</p>\n\n<p>다음 Q개의 줄에 각각 정수 n과 x가 주어진다. (1&nbsp;≤ n&nbsp;≤ 500,000; 1&nbsp;≤ x&nbsp;≤ m)</p>",
+  "outputDesc": "<p>주어지는 n, x마다 f<sub>n</sub>(x)를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "자료 구조",
+    "희소 배열"
+  ],
+  "fetchedAt": "2026-04-20T10:00:21.898Z"
+}

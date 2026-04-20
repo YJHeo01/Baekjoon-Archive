@@ -1,0 +1,17 @@
+{
+  "problemId": 14413,
+  "title": "Poklon",
+  "timeLimit": "5 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Little Mirko is a very simple man. Mirko’s friend Darko has given him an array of N natural integers and asked him Q queries about the array that Mirko must answer.</p>\n\n<p>Each query consists of two integers, the positions of the left and right end of an interval in the array. The answer to the query is the number of different values that appear exactly twice in the given interval.</p>",
+  "inputDesc": "<p>The first line of input contains the integers N and Q (1 ≤ N, Q ≤ 500 000).</p>\n\n<p>The second line of input contains N natural integers less than 1 000 000 000, the elements of the array.</p>\n\n<p>Each of the following Q lines contains two integers, L and R (1 ≤ L ≤ R ≤ N), from the task.</p>",
+  "outputDesc": "<p>The output must consist of Q lines, each line containing the answer to a query, respectively.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "오프라인 쿼리",
+    "값 / 좌표 압축",
+    "mo's"
+  ],
+  "fetchedAt": "2026-04-20T09:36:50.542Z"
+}

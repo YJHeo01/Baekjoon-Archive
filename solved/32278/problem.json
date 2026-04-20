@@ -1,0 +1,14 @@
+{
+  "problemId": 32278,
+  "title": "선택 가능성이 가장 높은 자료형",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>선린이는 효율적으로 코딩하는 걸 좋아해서 아래와 같은 방식으로 자료형을 선택한다고 한다. 선린이가 선택할 자료형을 알아내자!</p>\n\n<p><strong>선린이가 자료형을 선택하는 기준은 다음과 같다.</strong></p>\n\n<ul>\n\t<li>정확하게 표현할 수 있으면서, 메모리를 적게 차지하는 자료형을 선택한다.</li>\n\t<li>선택할 수 있는 자료형은 <span style=\"color:#e74c3c;\"><code>short</code></span>, <span style=\"color:#e74c3c;\"><code>int</code></span>, <span style=\"color:#e74c3c;\"><code>long long</code></span> 중 하나이다.</li>\n</ul>\n\n<table class=\"table table-bordered td-center td-middle table-center-60\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>자료형</td>\n\t\t\t<td>최솟값</td>\n\t\t\t<td>최댓값</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"color:#e74c3c;\"><code>short</code></span></td>\n\t\t\t<td>\n\t\t\t<p>$-2^{15}$</p>\n\n\t\t\t<p>$-32,768$</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$2^{15}-1$</p>\n\n\t\t\t<p>$32,767$</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"color:#e74c3c;\"><code>int</code></span></td>\n\t\t\t<td>\n\t\t\t<p>$-2^{31}$</p>\n\n\t\t\t<p>$-2,147,483,648$</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$2^{31}-1$</p>\n\n\t\t\t<p>$2,147,483,647$</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><span style=\"color:#e74c3c;\"><code>long long</code></span></td>\n\t\t\t<td>\n\t\t\t<p>$-2^{63}$</p>\n\n\t\t\t<p>$-9,223,372,036,854,775,808$</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$2^{63}-1$</p>\n\n\t\t\t<p>$9,223,372,036,854,775,807$</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+  "inputDesc": "<p>정수 $N$이 주어진다.</p>",
+  "outputDesc": "<p>선린이가 선택할 자료형을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T10:50:14.120Z"
+}

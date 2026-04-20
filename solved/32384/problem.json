@@ -1,0 +1,14 @@
+{
+  "problemId": 32384,
+  "title": "사랑은 고려대입니다",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>사랑은 고려대입니다.</p>",
+  "inputDesc": "<p>첫 번째 줄에 정수 $N(1\\leq N\\leq 10)$이 주어진다.</p>",
+  "outputDesc": "<p>첫 번째 줄에 <span style=\"color:#e74c3c;\"><code>LoveisKoreaUniversity</code></span>를 공백으로 구분하여 $N$번 출력한다.</p>",
+  "tags": [
+    "성공",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-20T10:55:53.186Z"
+}

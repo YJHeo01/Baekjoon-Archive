@@ -1,0 +1,15 @@
+{
+  "problemId": 20442,
+  "title": "ㅋㅋ루ㅋㅋ",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>ㅋㅋ루ㅋㅋ 문자열은 다음과 같이 정의한다.</p>\n\n<ol>\n\t<li><code>R</code>로만 이루어진 문자열은 ㅋㅋ루ㅋㅋ 문자열이다. 단, 빈 문자열은 ㅋㅋ루ㅋㅋ 문자열이 아니다.</li>\n\t<li>ㅋㅋ루ㅋㅋ 문자열 양 끝에 <code>K</code>를 하나씩 붙인 문자열은 ㅋㅋ루ㅋㅋ 문자열이다.</li>\n</ol>",
+  "inputDesc": "<p>첫째 줄에 <code>K</code>와<code><font face=\"sans-serif, Arial, Verdana, Trebuchet MS, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol\">&nbsp;</font>R</code>로만 이루어진 문자열이 주어진다. 문자열의 길이는 최대 3,000,000이다.</p>",
+  "outputDesc": "<p>주어진 문자열의 부분 수열 중 가장 긴 ㅋㅋ루ㅋㅋ 문자열의 길이를 출력한다. 부분 수열 중 ㅋㅋ루ㅋㅋ인 문자열이 없는 경우, 0을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "누적 합",
+    "두 포인터"
+  ],
+  "fetchedAt": "2026-04-20T10:11:58.115Z"
+}

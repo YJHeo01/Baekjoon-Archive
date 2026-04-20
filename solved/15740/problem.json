@@ -1,0 +1,17 @@
+{
+  "problemId": 15740,
+  "title": "A+B - 9",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>두 정수 <em>A</em>와 <em>B</em>를 입력받은 다음, <em>A</em>+<em>B</em>를 출력하는 프로그램을 작성하시오.</p>",
+  "inputDesc": "<p>첫째 줄에 <em>A</em>와 <em>B</em> (-10<sup>10000</sup> ≤ <em>A</em>, <em>B</em> ≤ 10<sup>10000</sup>)가 주어진다.</p>",
+  "outputDesc": "<p>첫째 줄에 <em>A</em>+<em>B</em>를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "서브태스크",
+    "수학",
+    "사칙연산",
+    "임의 정밀도 / 큰 수 연산"
+  ],
+  "fetchedAt": "2026-04-20T09:45:41.334Z"
+}

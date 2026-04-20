@@ -1,0 +1,15 @@
+{
+  "problemId": 25487,
+  "title": "단순한 문제 (Large)",
+  "timeLimit": "2.4 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>세 양의 정수 $a$, $b$, $c$가 주어질 때, 다음 조건을 만족하는 정수 쌍 $(x, y, z)$의 개수를 구하시오.</p>\n\n<ul>\n\t<li>$1 \\le x \\le a$</li>\n\t<li>$1 \\le y \\le b$</li>\n\t<li>$1 \\le z \\le c$</li>\n\t<li>$(x\\,\\bmod\\,y) = (y\\,\\bmod\\,z) = (z\\,\\bmod\\,x)$</li>\n</ul>\n\n<p>$(A\\,\\bmod\\,B)$는 $A$를 $B$로 나눈 나머지를 의미한다.</p>",
+  "inputDesc": "<p>첫째 줄에 테스트 케이스의 수 $T$가 주어진다. $(1 \\le T \\le 600\\,000)$</p>\n\n<p>다음 $T$개의 각 줄에는 세 정수 $a$, $b$, $c$가 공백으로 구분되어 주어진다. $(1 \\le a, b, c \\le 100\\,000)$</p>",
+  "outputDesc": "<p>한 줄에 하나씩 정답을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "수학",
+    "정수론"
+  ],
+  "fetchedAt": "2026-04-20T10:26:56.739Z"
+}

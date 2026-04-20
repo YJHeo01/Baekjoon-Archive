@@ -1,0 +1,17 @@
+{
+  "problemId": 27487,
+  "title": "One and Two",
+  "timeLimit": "1 초 (추가 시간 없음)",
+  "memoryLimit": "1024 MB (추가 메모리 없음)",
+  "description": "<p>You are given a sequence $a_1, a_2, \\ldots, a_n$. Each element of $a$ is $1$ or $2$.</p>\n\n<p>Find out if an integer $k$ exists so that the following conditions are met.</p>\n\n<ul>\n\t<li>$1 \\leq k \\leq n-1$, and</li>\n\t<li>$a_1 \\cdot a_2 \\cdot \\ldots \\cdot a_k = a_{k+1} \\cdot a_{k+2} \\cdot \\ldots \\cdot a_n$.</li>\n</ul>\n\n<p>If there exist multiple $k$ that satisfy the given condition, print the smallest.</p>",
+  "inputDesc": "<p>Each test contains multiple test cases. The first line contains the number of test cases $t$ ($1 \\le t \\le 100$). Description of the test cases follows.</p>\n\n<p>The first line of each test case contains one integer $n$ ($2 \\leq n \\leq 1000$).</p>\n\n<p>The second line of each test case contains $n$ integers $a_1, a_2, \\ldots, a_n$ ($1 \\leq a_i \\leq 2$).</p>",
+  "outputDesc": "<p>For each test case, if there is no such $k$, print $-1$.</p>\n\n<p>Otherwise, print the smallest possible $k$.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "애드 혹"
+  ],
+  "fetchedAt": "2026-04-20T10:31:23.946Z"
+}
