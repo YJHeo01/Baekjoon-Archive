@@ -1,0 +1,63 @@
+# 34866 - Extraterrestrial Creatures
+
+| 시간 제한 | 메모리 제한 |
+| --- | --- |
+| 2 초 | 2048 MB |
+
+## 문제
+
+<p><img alt="" src="https://upload.acmicpc.net/5becc474-5db4-4dfc-8583-c43761c0821b/-/preview/" style="width: 143px; height: 178px; float: right;">In the year 3025, ICPC (Interplanetary Constitution for Peculiar Creatures) found an exotic animal in asteroid KP-124. Upon further inspection, ICPC succeeded in figuring out how they live and how their ecosystem works altogether:</p>
+
+<ul>
+<li>They have a button on their belly, shaped just like a belly button of us earthers.</li>
+<li>On their head is a series of strange-looking symbols that works just like the decimal system of us earthers. ICPC already has a knowledge of what each of the symbols means, so for you as an earther we will just use the term “their number” and the standard decimal notation to represent the values.</li>
+<li>When their button is pressed, their number increases by a fixed value, possibly different for each entity. They try to hit their button as much as they can since each button press increases their chance of survival.</li>
+</ul>
+
+<p>The researchers on KP-124 quickly became fascinated by these creatures and kept $n$ of those as pets in the research station to amuse themselves from time to time. Let us give them a unique id from $1$ to $n$. The mission on KP-124 was a success with the pets’ emotional support and it was time for the researchers to leave the asteroid. As a farewell present to the pets, you, one of the researchers, decided to press buttons a total of $X$ times. To ensure an even chance of survival among the creatures, you made a rule to press the button on one that has the smallest number on its head each time. If there is a tie, you choose the one having the smallest id among those tied.</p>
+
+<table class="table table-bordered th-center td-center table-center-40">
+<tbody>
+<tr>
+<th>Creature id</th>
+<th>Initial number</th>
+<th>Increment</th>
+</tr>
+<tr>
+<td>$1$</td>
+<td>$5$</td>
+<td>$3$</td>
+</tr>
+<tr>
+<td>$2$</td>
+<td>$1$</td>
+<td>$4$</td>
+</tr>
+<tr>
+<td>$3$</td>
+<td>$3$</td>
+<td>$6$</td>
+</tr>
+</tbody>
+</table>
+
+<p>For example, let $n = 3$, $X = 3$, and the information of the $3$ pets be as the table above. Initially they have the numbers $[5, 1, 3]$. On the first press, you will press the button on creature $2$, since it has the smallest number. Now the numbers become $[5, 5, 3]$, so that the smallest will be creature $3$ and you will press its button. Then the numbers become $[5, 5, 9]$ where the smallest one is tied between creature $1$ and $2$. Since creature $1$ has the smallest id, you will press the button on creature $1$, making the numbers on them $[8, 5, 9]$.</p>
+
+<p>Given the information about the creatures before pressing their buttons, write a program to find the resulting numbers on the creatures’ heads.</p>
+
+## 입력
+
+<p>Your program is to read from standard input. The input starts with a line containing two integers, $n$ and $X$ ($1 ≤ n ≤ 500\,000$; $1 ≤ X ≤ 10^{12}$), where $n$ and $X$ are as explained above. The second line contains $n$ nonnegative integers, $i$-th of which is the number initially written on the head of creature $i$. The third line contains $n$ positive integers, $i$-th of which is how much the value on creature $i$ is increased by when its button is pressed. All the integers on the second and the third lines are no more than $10^6$.</p>
+
+## 출력
+
+<p>Your program is to write to standard output. Print exactly one line. The line should contain $n$ integers, $i$-th of which is the number written on the head of creature $i$ after buttons are pressed $X$ times in total.</p>
+
+## 태그
+
+- 성공
+- 다국어
+- 자료 구조
+- 이분 탐색
+- 우선순위 큐
+- 매개 변수 탐색

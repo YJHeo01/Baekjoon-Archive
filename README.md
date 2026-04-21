@@ -45,18 +45,21 @@ output/
 │       ├── problem.json
 │       ├── problem.html
 │       └── problem.png
-├── solved/
-│   ├── index.json
-│   └── {problem_id}/
-│       ├── problem.json
-│       ├── problem.html
-│       └── problem.png
-└── submissions/
+└── solutions/
     ├── index.json
-    └── {problem_id}/
-        ├── {submission_id}.json
-        └── {submission_id}.{ext}
+    └── {range}/
+        └── {problem_id}/
+            ├── README.md
+            ├── statement/
+            │   ├── problem.json
+            │   ├── problem.html
+            │   └── problem.png
+            └── submissions/
+                ├── {submission_id}.json
+                └── {submission_id}.{ext}
 ```
+
+`{range}`는 `1000-9999`, `10000-19999`, `20000-29999`, `30000-`, `contest`로 분류됩니다.
 
 ---
 
